@@ -1,0 +1,46 @@
+{
+  "chart": {
+    "title": "Arctic sea ice extent",
+    "subtitle": "The minimum and maximum sea ice extent typically occur in September and February each year.",
+    "citation": "National Snow and Ice Data Center - Sea Ice Index (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/arctic-sea-ice?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Arctic Ocean"
+    ]
+  },
+  "columns": {
+    "Minimum Arctic sea ice extent": {
+      "titleShort": "Minimum (September)",
+      "titleLong": "Minimum (September)",
+      "descriptionKey": [],
+      "shortUnit": "million km²",
+      "unit": "million square kilometers",
+      "timespan": "1979-2024",
+      "type": "Numeric",
+      "owidVariableId": 997999,
+      "shortName": "arctic_sea_ice_extent_min",
+      "lastUpdated": "2024-11-18",
+      "nextUpdate": "2025-01-17",
+      "citationShort": "National Snow and Ice Data Center - Sea Ice Index (2024) – with minor processing by Our World in Data",
+      "citationLong": "National Snow and Ice Data Center - Sea Ice Index (2024) – with minor processing by Our World in Data. “Minimum (September)” [dataset]. National Snow and Ice Data Center, “Sea Ice Index Version 3” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997999.metadata.json"
+    },
+    "Maximum Arctic sea ice extent": {
+      "titleShort": "Maximum (February)",
+      "titleLong": "Maximum (February)",
+      "descriptionKey": [],
+      "shortUnit": "million km²",
+      "unit": "million square kilometers",
+      "timespan": "1979-2024",
+      "type": "Numeric",
+      "owidVariableId": 997998,
+      "shortName": "arctic_sea_ice_extent_max",
+      "lastUpdated": "2024-11-18",
+      "nextUpdate": "2025-01-17",
+      "citationShort": "National Snow and Ice Data Center - Sea Ice Index (2024) – with minor processing by Our World in Data",
+      "citationLong": "National Snow and Ice Data Center - Sea Ice Index (2024) – with minor processing by Our World in Data. “Maximum (February)” [dataset]. National Snow and Ice Data Center, “Sea Ice Index Version 3” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997998.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-30"
+}
