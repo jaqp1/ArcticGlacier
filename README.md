@@ -28,5 +28,5 @@ An application that allows monitoring the state of the Arctic glacier based on d
 - Open XML SDK
 ## Authors
 
-- [[@octokatherine](https://github.com/jaqp1)](https://github.com/jaqp1)
+- @jaqp1
 
